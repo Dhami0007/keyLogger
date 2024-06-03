@@ -30,8 +30,14 @@
 
 #specific{
     background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #general{
     background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
